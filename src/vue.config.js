@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/lp1/'
+    publicPath: '/LP1/'
   }
   

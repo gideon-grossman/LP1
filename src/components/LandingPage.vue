@@ -1,7 +1,6 @@
 <template>
 <div>
     <Header/>
-This is the landing page
 </div>
 </template>
 

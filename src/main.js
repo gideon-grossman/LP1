@@ -10,7 +10,13 @@ Vue.use(BootstrapVue)
 // Optionally install the BootstrapVue icon components plugin
 Vue.use(IconsPlugin)
 
+import '@fortawesome/fontawesome-free/css/all.css'
+import '@fortawesome/fontawesome-free/js/all.js'
+
 Vue.config.productionTip = false
+
+// Importing the global css file
+import "@/assets/global_lp.css"
 
 new Vue({
   render: h => h(App),

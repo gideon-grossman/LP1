@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="bg-yellow d-flex justify-content-between pl-3 pr-3">
-                <img class="m-3" alt="Vue logo" width="15%" align="left" src="@/assets/hardwareLogo.png">
+                <img class="m-3" alt="Vue logo" width="8%" align="left" src="@/assets/hardwareLogo.png">
             <div class="align-self-center small-article-heading">
                 <div>INFO@ZOTOTOOLS.COM</div>    
                 <div>+1 (888) 250-8371</div>

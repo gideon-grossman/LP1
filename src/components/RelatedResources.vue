@@ -8,7 +8,7 @@
 
             </div>
             <div>
-                <img src="@/assets/NutThreadSizing.jpg" class="max-height">
+                <img src="@/assets/NutThreadSizing.jpg" width="100%" class="max-height">
                   <div><b-button>How To Measure Thread Size</b-button></div>
             </div>
             <div>

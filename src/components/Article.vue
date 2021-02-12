@@ -22,7 +22,7 @@
 
     <div class="pl-3">
         <div class="pl-3 pt-3 small-article-heading"> US Nut Size Table</div>
-        <p class="pl-3">                 <img class="article-photo"  width="30%" src="@/assets/NutDimensions.png">
+        <p class="pl-3">                 <img class="article-photo"  width="100%" src="@/assets/NutDimensions.png">
 Our nuts are manufactured from superior materials resistant to rust and fracture with high tensile and yield strength to ensure they last through harsh weather and many years. Charts like the one below are helpful in choosing the correct nut for your application. Whichever size you need, we have it.</p>
 
 <b-button class="ml-3 pl-3 mb-2">View Product Page</b-button>

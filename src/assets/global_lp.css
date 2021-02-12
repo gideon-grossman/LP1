@@ -4,9 +4,23 @@
 
 .bg-grey {
     background-color: #6c757d
+    
+}
+
+.bg-white-smoke {
+    background-color: #f1f1f1
 }
 
 .bg-yellow {
 
 background-color: #ffc007
+}
+
+.bg-white {
+    background-color: white
+}
+
+.small-article-heading {
+    font-size: 24px;
+    font-weight: bold;
 }

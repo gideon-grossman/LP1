@@ -7,7 +7,7 @@
                 <div>+1 (888) 250-8371</div>
             </div>
         </div>
-        <div class="d-flex pt-3 bg-white-smoke justify-content-between pl-3 pr-3">
+        <div class="d-flex p-3 bg-white-smoke justify-content-between pl-3 pr-3">
             <div>
                 <div class="small-article-heading">PRODUCTS</div>
                 <div>ENGINEERING</div>
@@ -35,9 +35,44 @@
                 <div>CALL US</div>
                 <div>EMAIL US</div>
                 <div>LIVE CHAT</div>
-                <div>GET DIRECTIONS</div>
+                <div><i class="fas fa-map-marker-alt color-red"></i> STORE LOCATOR</div>
             </div>
         </div>
+
+        <div class="d-flex pb-3 bg-white-smoke justify-content-between">
+            <div/>
+            <div/>
+            <img
+            src="@/assets/UL_logo.svg"
+            alt="UL logo"
+            height="87"
+            width="100"
+            />
+              <img
+            src="@/assets/rohs.png"
+            alt="ROHS"
+            height="87"
+            width="100"
+            />
+              <img
+            src="@/assets/iso.png"
+            alt="ISO9001"
+            height="87"
+            width="100"
+            />
+            <div/>
+            <div/>
+        </div>
+
+        <div class="d-flex bg-white-smoke justify-content-center">
+                <i class="px-2 fab fa-facebook color-red fa-3x"></i>
+                <i class="px-2 fab fa-instagram color-red fa-3x"></i>
+                <i class="px-2 fab fa-twitter color-red fa-3x"></i>
+                <i class="px-2 fab fa-linkedin color-red fa-3x"></i>   
+        </div>
+
+        <div class="bg-white-smoke">911 23 Rd, Grand Junction, CO 81503</div>
+        <div class="bg-white-smoke">Copyright © 2021 ZOTOTOOLS | All Rights Reserved | Web Design by Gideon Grossman</div>
     </div>
 </template>
 

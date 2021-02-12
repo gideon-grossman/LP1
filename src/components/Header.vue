@@ -4,8 +4,9 @@
       <div>
         <b-navbar toggleable="lg" type="dark" variant="warning">
           <div class="d-flex">
-            <div class="mr-auto" href="#"> 
+            <div class="mr-auto container" href="#"> 
                 <img alt="Vue logo" width="15%" align="left" src="@/assets/hardwareLogo.png">
+                <div class="mr-auto pl-3 mini-article-heading"> Your Trusted Supplier of Nuts and Bolts since 1945</div>
             </div>
 
 
@@ -48,5 +49,10 @@ export default {
 input.heighttext{
   padding: 20px 10px;
   line-height: 28px;
+}
+
+.container {
+  height: 200px;
+  position: relative;
 }
 </style>

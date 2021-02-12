@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <div class="bg-white-smoke">
         <div class="pl-3 pt-3 small-article-heading"> Related Resources</div>
-        <div class="pt-5 d-flex justify-content-between flex-wrap pl-5 pr-5">
+        <div class="p-3 d-flex justify-content-between flex-wrap pl-5 pr-5">
             <div>
                 <img src="@/assets/Catalog.png" class="max-height">
                     <div> <b-button>Nut Catalog</b-button></div>

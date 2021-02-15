@@ -7,7 +7,7 @@
                 <div>+1 (888) 250-8371</div>
             </div>
         </div>
-        <div class="d-flex p-3 flex-wrap bg-white-smoke justify-content-between pl-3 pr-3">
+        <div class="d-flex p-3 flex-wrap justify-content-between pl-3 pr-3">
             <div>
                 <div class="small-article-heading">PRODUCTS</div>
                 <div>ENGINEERING</div>

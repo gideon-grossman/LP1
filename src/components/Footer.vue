@@ -1,13 +1,13 @@
 <template>
     <div>
         <div class="bg-yellow d-flex flex-wrap justify-content-between pl-3 pr-3">
-                <img class="m-3" alt="Vue logo" width="8%" align="left" src="@/assets/hardwareLogo.png">
+                <img class="logo" alt="Vue logo" align="left" width="10%" src="@/assets/hardwareLogo.png">
             <div class="align-self-center small-article-heading">
                 <div>INFO@ZOTOTOOLS.COM</div>    
                 <div>+1 (888) 250-8371</div>
             </div>
         </div>
-        <div class="d-flex p-3 flex-wrap justify-content-between pl-3 pr-3">
+        <div class="d-flex p-3 flex-wrap bg-white-smoke justify-content-between pl-3 pr-3">
             <div>
                 <div class="small-article-heading">PRODUCTS</div>
                 <div>ENGINEERING</div>
@@ -81,3 +81,9 @@ export default {
     name: "Footer"
 }
 </script>
+
+<style scoped>
+img {
+    align-self: center;
+    }
+</style>

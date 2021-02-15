@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white-smoke">
+    <div class="">
         <div class="pl-3 pt-3 small-article-heading"> Related Resources</div>
         <div class="p-3 d-flex justify-content-between flex-wrap pl-5 pr-5">
             <div>
